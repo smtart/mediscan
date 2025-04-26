@@ -4,5 +4,6 @@ langchain-google-genai
 faiss-cpu
 pypdf
 gtts
+pillow
 huggingface_hub
-sentence_transformers
+sentence-transformers
